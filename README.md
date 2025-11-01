@@ -1,2 +1,4 @@
 # demo_project
-this is my first repository.
+This is my First Git Repository.
+<br>
+Author-Dipannita Roy
